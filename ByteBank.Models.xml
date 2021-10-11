@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ByteBank.Models</name>
+    </assembly>
+    <members>
+        <member name="T:ByteBank.Models.CheckingAccount">
+            <summary>
+            A ByteBank account class.
+            </summary>
+        </member>
+        <member name="M:ByteBank.Models.CheckingAccount.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Create a checking account instance with <see cref="P:ByteBank.Models.CheckingAccount.Agency"/> and <see cref="P:ByteBank.Models.CheckingAccount.Number"/>.
+            </summary>
+            <param name="agency">The <paramref name="agency"/> number of the checking account must be greater than zero.</param>
+            <param name="number">The <paramref name="number"/> of the checking account must be greater than zero.</param>
+            <exception cref="T:System.ArgumentException">The <see cref="P:ByteBank.Models.CheckingAccount.Agency"/> and <see cref="P:ByteBank.Models.CheckingAccount.Number"/> parameters must be greater than zero.</exception>
+        </member>
+        <member name="M:ByteBank.Models.CheckingAccount.Withdraw(System.Double)">
+            <summary>
+            A method to withdraw a value from the checking account.
+            </summary>
+            <param name="value">The value of money wanted to withdraw. The <paramref name="value"/> must be greater than zero.</param>
+            <exception cref="T:System.ArgumentException">The <paramref name="value"/> must be greater than zero."/></exception>
+            <exception cref="T:ByteBank.Models.Exceptions.InsufficientFundsException">The <see cref="P:ByteBank.Models.CheckingAccount.Balance"/> must be greater than <paramref name="value"/>.</exception>
+        </member>
+        <member name="M:ByteBank.Models.Employees.GetBonus.Register(ByteBank.Models.Employees.Employee)">
+            <summary>
+            Teste de comentário de code-snipt
+            </summary>
+            <param name="employee"></param>
+        </member>
+    </members>
+</doc>

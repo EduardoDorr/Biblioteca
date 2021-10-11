@@ -1,0 +1,12 @@
+C:\Users\edudo\Desktop\Alura\EduardoDorr\05_CSharp\ByteBank.Models\bin\Debug\ByteBank.Models.dll
+C:\Users\edudo\Desktop\Alura\EduardoDorr\05_CSharp\ByteBank.Models\bin\Debug\ByteBank.Models.pdb
+C:\Users\edudo\Desktop\Alura\EduardoDorr\05_CSharp\ByteBank.Models\obj\Debug\ByteBank.Models.csproj.CoreCompileInputs.cache
+C:\Users\edudo\Desktop\Alura\EduardoDorr\05_CSharp\ByteBank.Models\obj\Debug\ByteBank.Models.dll
+C:\Users\edudo\Desktop\Alura\EduardoDorr\05_CSharp\ByteBank.Models\obj\Debug\ByteBank.Models.pdb
+C:\Users\edudo\Desktop\Alura\EduardoDorr\05_CSharp\ByteBank.Models\bin\Debug\ByteBank.Models.xml
+C:\Users\edudo\Desktop\Alura\EduardoDorr\Biblioteca\.xml
+C:\Users\edudo\Desktop\Alura\EduardoDorr\Biblioteca\ByteBank.Models.dll
+C:\Users\edudo\Desktop\Alura\EduardoDorr\Biblioteca\ByteBank.Models.pdb
+C:\Users\edudo\Desktop\Alura\EduardoDorr\Biblioteca\Library\ByteBank.Models\obj\Debug\ByteBank.Models.csproj.CoreCompileInputs.cache
+C:\Users\edudo\Desktop\Alura\EduardoDorr\Biblioteca\Library\ByteBank.Models\obj\Debug\ByteBank.Models.dll
+C:\Users\edudo\Desktop\Alura\EduardoDorr\Biblioteca\Library\ByteBank.Models\obj\Debug\ByteBank.Models.pdb
